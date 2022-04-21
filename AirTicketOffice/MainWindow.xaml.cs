@@ -60,7 +60,7 @@ namespace AirTicketOffice
                 tbEmail.Background = Brushes.Gray;
             }
             else
-            {                
+            {
                 tbLogin.ToolTip = "";
                 tbLogin.Background = Brushes.Transparent;
                 passBox.ToolTip = "";
