@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:AirTicketOffice"
         mc:Ignorable="d"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-        Title="Приложение для пользователей" Height="450" Width="700">
+        Title="Приложение для пользователей" Height="450" Width="700" WindowStartupLocation="CenterScreen">
     <Grid Background="Beige">
         <Border MinWidth="400" Margin="15" Background="Azure" VerticalAlignment="Center" 
                 Padding="30" MaxWidth="700" CornerRadius="30">
